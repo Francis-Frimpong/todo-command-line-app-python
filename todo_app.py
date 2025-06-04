@@ -18,5 +18,7 @@ while True:
             print(content)
 
     # exit
-    else:
+    elif input_option == 'Exit':
         exit()
+    else:
+        print('Option chosen does not exist!')

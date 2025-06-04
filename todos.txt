@@ -2,3 +2,5 @@
  Shopping
  Cooking dinner
  Bicycle ride with the kids
+Start learning OOP in python today
+Complete phase 1 of my driving lessons
